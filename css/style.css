@@ -1,0 +1,17 @@
+body {
+  display: grid;
+  place-content: center;
+  margin-top: 100px;
+}
+
+button {
+  height: 50px;
+  width: 300px;
+  background-color: red;
+  border-radius: 40px;
+}
+
+#inputField {
+  height: 400px;
+  width: 600px;
+}
